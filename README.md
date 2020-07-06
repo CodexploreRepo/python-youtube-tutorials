@@ -12,4 +12,4 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 3. **Arithmetics:** Các Phép Toán: + - * / ** / // %
 4. **Basic Mathematics Function** (Hàm Toán Cơ Bản)
 
-* [Youtube Video Tutorial](https://youtu.be/FBfayv31Doo "Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python | Lập Trình Python Cơ Bản #4")
+* [Youtube Video Tutorial #4](https://youtu.be/FBfayv31Doo "Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python | Lập Trình Python Cơ Bản #4")
