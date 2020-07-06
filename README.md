@@ -6,10 +6,10 @@ CodeXplore là một platform chia sẻ kiến thức về Lập Trình [Coding]
 ----/----------------- <br>
 Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
-## 1. Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python 
+## 1. Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
 1. **Basics Data Types:** bool, None, int, float 
 2. **Hàm type():** Dynamically typed
 3. **Arithmetics:** Các Phép Toán: + - * / ** / // %
 4. **Basic Mathematics Function** (Hàm Toán Cơ Bản)
 
-* Code (#4) & [Youtube Video Tutorial](https://youtu.be/FBfayv31Doo "Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python | Lập Trình Python Cơ Bản #4")
+[Youtube Video Tutorial](https://youtu.be/FBfayv31Doo "Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python | Lập Trình Python Cơ Bản #4")
