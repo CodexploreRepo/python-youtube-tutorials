@@ -1,4 +1,4 @@
-# Python Basics Tutorial [Lập Trình Python Cơ Bản]
+# Python Basics Tutorial 
 Đây là Github repository của Series "Lập Trình Python Cơ Bản" trên Channel của CodeXplore
 
 ### CodeXplore là gì?
@@ -22,7 +22,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 * [Youtube Video Tutorial #4](https://youtu.be/FBfayv31Doo "Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python | Lập Trình Python Cơ Bản #4")
 
 
-
+[Back To The Top](#python-basics-worksheet)
 
 
 
@@ -31,4 +31,4 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 
 ## Basic Data Types 
-### Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
+#### Bài 1: Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
