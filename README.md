@@ -29,4 +29,5 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 
 
-## L1. Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
+## L1 
+Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
