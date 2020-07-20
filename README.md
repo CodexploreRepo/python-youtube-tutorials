@@ -7,10 +7,8 @@ CodeXplore là một platform chia sẻ kiến thức về Lập Trình [Coding]
 Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 ## Table of Content
-
-
-[L1 - Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)](#basic-data-types)
-[L2 - Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python](#strings-and-string-methods)
+- [L1 - Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)](#basic-data-types)
+- [L2 - Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python (YT#5)](#strings-and-string-methods)
 
 
 
@@ -27,7 +25,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 [Back To The Top](#python-basics-worksheet)
 
 ## Strings and String Methods 
-
+#### Bài 2: Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python
 
 
 
