@@ -26,7 +26,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 [Back To The Top](#python-basics-worksheet)
 
-## Strings  String Methods 
+## Strings and String Methods 
 
 
 
