@@ -8,7 +8,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 
 
-[Custom foo description](#L1)
+[Custom foo description](#L1-Cac-Kieu)
 
 
 
@@ -29,5 +29,5 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 
 
-## L1 
-Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
+## L1 Các Kiểu 
+Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
