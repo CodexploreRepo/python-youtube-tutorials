@@ -10,7 +10,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 
 [L1 - Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)](#basic-data-types)
-[test] (#strings-&-string-methods)
+[test] (#strings-and-string-methods)
 
 
 
@@ -26,7 +26,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 [Back To The Top](#python-basics-worksheet)
 
-## Strings & String Methods 
+## Strings  String Methods 
 
 
 
