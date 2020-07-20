@@ -8,9 +8,9 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 
 
-[Custom foo description](#foo)
+[Custom foo description](##foo)
 
-# Foo
+
 
 ## 1. Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
 1. **Basics Data Types:** bool, None, int, float 
@@ -20,3 +20,6 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 * [Youtube Video Tutorial #4](https://youtu.be/FBfayv31Doo "Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python | Lập Trình Python Cơ Bản #4")
 
+
+
+## Foo
