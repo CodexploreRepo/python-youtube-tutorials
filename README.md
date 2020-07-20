@@ -9,7 +9,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 ## Table of Content
 
 
-[L1 - Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)](#basic-data-types)
+[L1 - Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)](#basic-data-types) <br>
 [test] (#strings-and-string-methods)
 
 
