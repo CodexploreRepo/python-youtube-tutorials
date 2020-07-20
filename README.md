@@ -6,9 +6,10 @@ CodeXplore là một platform chia sẻ kiến thức về Lập Trình [Coding]
 ----/----------------- <br>
 Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
+## Table of Content
 
 
-[Custom foo description](#basic-data-types)
+[L1 - Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)](#basic-data-types)
 
 
 
