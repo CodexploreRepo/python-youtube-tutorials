@@ -32,7 +32,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 4. **Cách nối (concatenate) chuỗi trong Python**
 5. **Các hàm xử lý chuỗi trong Python**
 6. **Định dạng chuỗi trong Python**: Toán Tử %, Hàm Format() và bằng huỗi f (f-string)
-[
+
 
 * [Youtube Video Tutorial #5](https://youtu.be/H68p4-lCXVM "Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python | Lập Trình Python Cơ Bản #5")
 
