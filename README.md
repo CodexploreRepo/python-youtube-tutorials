@@ -31,14 +31,19 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 3. **Cách truy cập các chuỗi con (Substrings)**
 4. **Cách nối (concatenate) chuỗi trong Python**
 5. **Các hàm xử lý chuỗi trong Python**
-6. **Định dạng chuỗi trong Python**: Toán Tử %, Hàm Format() và bằng huỗi f (f-string)
-
-
+6. **Định dạng chuỗi trong Python**: 
+    * Toán Tử %
+    * Hàm Format()
+    * Chuỗi f (f-string) (from Python 3.6 onwards)
+ 
 * [Youtube Video Tutorial #5](https://youtu.be/H68p4-lCXVM "Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python | Lập Trình Python Cơ Bản #5")
 * [Youtube Video Tutorial #6 - Project: Random Password Generator](https://youtu.be/RouhRGevVFM "Lập Trình Random Password Generator | Lập Trình Python Cơ Bản #6")
 
 [Back To The Top](#python-basics-worksheet)
 
-
+3. Step 3
+    * Item 3a
+    * Item 3b
+    * Item 3c
 
 
