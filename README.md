@@ -41,9 +41,6 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 [Back To The Top](#python-basics-worksheet)
 
-3. Step 3
-    * Item 3a
-    * Item 3b
-    * Item 3c
+
 
 
