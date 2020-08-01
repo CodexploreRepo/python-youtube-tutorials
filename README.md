@@ -36,6 +36,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 * [Youtube Video Tutorial #5](https://youtu.be/H68p4-lCXVM "Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python | Lập Trình Python Cơ Bản #5")
 * [Youtube Video Tutorial #6 - Project: Random Password Generator](https://youtu.be/RouhRGevVFM "Lập Trình Random Password Generator | Lập Trình Python Cơ Bản #6")
+
 [Back To The Top](#python-basics-worksheet)
 
 
