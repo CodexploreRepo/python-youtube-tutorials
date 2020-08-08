@@ -15,9 +15,17 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 ## Basic Data Types 
 #### Bài 1: Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)
 1. **Basics Data Types:** bool, None, int, float 
+   | Mutable   |      immutable      |  
+   |----------|:-------------:|
+   |list <br>dict<br>set<br>bytearray|int<br> float<br> decimal<br> complex<br> bool<br> string<br> tuple<br> range<br> frozenset<br> bytes | 
+
+   
 2. **Hàm type():** Dynamically typed
 3. **Arithmetics:** Các Phép Toán: + - * / ** / // %
 4. **Basic Mathematics Function** (Hàm Toán Cơ Bản)
+
+
+
 
 * [Youtube Video Tutorial #4](https://youtu.be/FBfayv31Doo "Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python | Lập Trình Python Cơ Bản #4")
 
