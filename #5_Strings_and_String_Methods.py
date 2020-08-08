@@ -3,30 +3,7 @@ Topic #2: Strings (Chuỗi Ký Tự) - a sequence of characters
 '''
 # String: ordered, immutable, text presentation
 
-# Immutable which means they cannot be changed after they are created.
-'''
-mutable: Thay Đổi Được
 
-list
-dict
-set
-bytearray
-Các class được định nghĩa bởi code (mặc định)
-
-immutable: Không Thay Đổi Đc - hi đuợc tạo ra sẽ chứa toàn bộ các phần tử của nó, và nó "đóng băng" ở đó memory address đó
-Khi chúng ta muốn thay đổi giá trị của biến gán cho tuple đó, một tuple khác, ở một vùng nhớ khác sẽ được tạo ra.
-
-int
-float
-decimal
-complex
-bool
-string
-tuple
-range
-frozenset
-bytes
-'''
 # tạo các chuỗi trong Python bằng cách bao một text trong dấu nháy đơn/kép
 # use singe or double quotes
 my_string = 'Hello World!'
