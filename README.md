@@ -54,8 +54,8 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 ## List and List Comprehension 
 #### Bài 3: List, Hàm Enumerate và Các Hàm Xử Lý List 
 
-1. **List, Hàm Enumerate và Các Hàm Xử Lý List **
-2. **List Comprehesion **
+1. **List, Hàm Enumerate và Các Hàm Xử Lý List**
+2. **List Comprehesion**
 3. **2D List**
 
 * [Youtube Video Tutorial #7](https://youtu.be/mwK0RS9WhOc)
