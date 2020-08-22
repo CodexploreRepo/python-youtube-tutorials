@@ -9,6 +9,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 ## Table of Content
 - [L1 - Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)](#basic-data-types)
 - [L2 - Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python (YT#5)](#strings-and-string-methods)
+- [L3 - List, Hàm Enumerate và Các Hàm Xử Lý List (YT#7 #8)](#list-and-list-comprehension)
 
 
 
@@ -30,7 +31,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 * [Youtube Video Tutorial #4](https://youtu.be/FBfayv31Doo "Các Kiểu Dữ Liệu Cơ Bản CẦN BIẾT trong Python | Lập Trình Python Cơ Bản #4")
 
 
-[Back To The Top](#python-basics-worksheet)
+[Back To The Top](#table-of-content)
 
 ## Strings and String Methods 
 #### Bài 2: Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python
@@ -50,5 +51,15 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 [Back To The Top](#python-basics-worksheet)
 
 
+## List and List Comprehension 
+#### Bài 3: List, Hàm Enumerate và Các Hàm Xử Lý List 
+
+1. **List, Hàm Enumerate và Các Hàm Xử Lý List **
+2. **List Comprehesion **
+3. **2D List**
+
+* [Youtube Video Tutorial #7](https://youtu.be/mwK0RS9WhOc)
+
+[Back To The Top](#table-of-content)
 
 
