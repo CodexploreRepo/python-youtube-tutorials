@@ -59,6 +59,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 2. **List Comprehesion**
 3. **2D List**
+4. **Hàm Zip()**
 * [Youtube Video Tutorial #8](https://youtu.be/fnXwXe0O6s8)
 
 
