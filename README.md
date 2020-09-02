@@ -10,7 +10,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 - [L1 - Các Kiểu  Dữ Liệu Cơ Bản CẦN BIẾT trong Python (YT#4)](#basic-data-types)
 - [L2 - Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python (YT#5)](#strings-and-string-methods)
 - [L3 - List, Hàm Enumerate và Các Hàm Xử Lý List (YT#7 #8)](#list-and-list-comprehension)
-
+- [L4 - Dictionary (YT#9)](#dictionary)
 
 
 ## Basic Data Types 
@@ -66,4 +66,15 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 
 [Back To The Top](#table-of-content)
 
+## Dictionary
 
+### Bài 4: Dictionary trong Python
+Kiểu dữ liệu Dictionary trong Python là một tập hợp các cặp key-value không có thứ tự, có thể thay đổi và lập chỉ mục (truy cập phần tử theo chỉ mục). Dictionary được khởi tạo với các dấu ngoặc nhọn {} và chúng có các khóa và giá trị (key-value). Mỗi cặp key-value được xem như là một item. Key mà đã truyền cho item đó phải là duy nhất, trong khi đó value có thể là bất kỳ kiểu giá trị nào. Key phải là một kiểu dữ liệu không thay đổi (immutable) như chuỗi, số hoặc tuple.
+
+Key và value được phân biệt riêng rẽ bởi một dấu hai chấm (:). Các item phân biệt nhau bởi một dấu phảy (,). Các item khác nhau được bao quanh bên trong một cặp dấu ngoặc móc đơn tạo nên một Dictionary trong Python
+
+* [Youtube Video Tutorial #9](https://youtu.be/YDRKO29wteU)
+
+
+
+[Back To The Top](#table-of-content)
