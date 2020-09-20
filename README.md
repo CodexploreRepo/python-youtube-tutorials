@@ -11,6 +11,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 - [L2 - Chuỗi Ký Tự & Các Hàm Xử Lý Chuỗi trong Python (YT#5)](#strings-and-string-methods)
 - [L3 - List, Hàm Enumerate và Các Hàm Xử Lý List (YT#7 #8)](#list-and-list-comprehension)
 - [L4 - Dictionary (YT#9)](#dictionary)
+- [L5 - Vòng Lặp For While (YT#10)](#for-while)
 
 
 ## Basic Data Types 
@@ -75,6 +76,12 @@ Key và value được phân biệt riêng rẽ bởi một dấu hai chấm (:)
 
 * [Youtube Video Tutorial #9](https://youtu.be/YDRKO29wteU)
 
+
+[Back To The Top](#table-of-content)
+
+## FOR WHILE
+
+* [Youtube Video Tutorial #10](https://youtu.be/2DM6QpNXJPk)
 
 
 [Back To The Top](#table-of-content)
