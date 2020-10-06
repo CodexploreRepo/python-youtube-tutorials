@@ -85,6 +85,9 @@ Key và value được phân biệt riêng rẽ bởi một dấu hai chấm (:)
 * [Youtube Video Tutorial #10](https://youtu.be/2DM6QpNXJPk)
 
 ## Function Detailed Explanation about args and kwargs
+Chúng ta sử dụng `*args` khi chúng ta không chắc chắn có bao nhiêu đối số sẽ được chuyển đến một hàm hoặc nếu chúng ta muốn chuyển một danh sách được lưu trữ hoặc một bộ đối số đến một hàm.
+
+`**kwargs` được sử dụng khi chúng ta không biết có bao nhiêu đối số từ khóa sẽ được chuyển đến một hàm hoặc nó có thể được sử dụng để chuyển các giá trị của từ điển làm đối số từ khóa.
 
 * [Youtube Video Tutorial #11](https://youtu.be/efA9sKW2kqY)
 [Back To The Top](#table-of-content)
