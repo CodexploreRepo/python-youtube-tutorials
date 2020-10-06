@@ -12,6 +12,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 - [L3 - List, Hàm Enumerate và Các Hàm Xử Lý List (YT#7 #8)](#list-and-list-comprehension)
 - [L4 - Dictionary (YT#9)](#dictionary)
 - [L5 - Vòng Lặp For While (YT#10)](#for-while)
+- [L6 - Hàm, cách truyền tham số dạng args và kwargs (YT#11)](#function-detailed-explanation-about-args-and-kwargs)
 
 
 ## Basic Data Types 
@@ -83,5 +84,7 @@ Key và value được phân biệt riêng rẽ bởi một dấu hai chấm (:)
 
 * [Youtube Video Tutorial #10](https://youtu.be/2DM6QpNXJPk)
 
+## Function Detailed Explanation about args and kwargs
 
+* [Youtube Video Tutorial #11](https://youtu.be/efA9sKW2kqY)
 [Back To The Top](#table-of-content)
