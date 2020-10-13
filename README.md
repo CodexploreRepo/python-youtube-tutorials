@@ -13,6 +13,7 @@ Youtube ✪ Subscribe: https://bit.ly/youtube_codexplore
 - [L4 - Dictionary (YT#9)](#dictionary)
 - [L5 - Vòng Lặp For While (YT#10)](#for-while)
 - [L6 - Hàm, cách truyền tham số dạng args và kwargs (YT#11)](#function-detailed-explanation-about-args-and-kwargs)
+- [L7 - Hàm Lambda trong Python là gì ? Khi nào sử dụng hàm Lambda (YT#12)](#lambda-function)
 
 
 ## Basic Data Types 
@@ -90,4 +91,18 @@ Chúng ta sử dụng `*args` khi chúng ta không chắc chắn có bao nhiêu 
 `**kwargs` được sử dụng khi chúng ta không biết có bao nhiêu đối số từ khóa sẽ được chuyển đến một hàm hoặc nó có thể được sử dụng để chuyển các giá trị của từ điển làm đối số từ khóa.
 
 * [Youtube Video Tutorial #11](https://youtu.be/efA9sKW2kqY)
+
 [Back To The Top](#table-of-content)
+
+## Lambda Function
+- Lambda là một anonymous function (hàm ẩn danh) nó có thể khai báo, định nghĩa ở bất kỳ đâu và không có khả năng tái sử dụng.
+
+- Lambda chỉ tồn tại trong phạm vi của biến mà nó được định nghĩa, vì vậy nếu như biến đó vượt ra ngoài phạm vi thì hàm này cũng không còn tác dụng nữa.
+
+- Lambda thường được dùng để gán vào biến, hay được gán vào hàm, class như một tham số.
+
+
+* [Youtube Video Tutorial #12](https://youtu.be/pVSxjxqhM2U)
+
+[Back To The Top](#table-of-content)
+
